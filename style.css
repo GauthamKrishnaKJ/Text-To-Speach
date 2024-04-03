@@ -105,6 +105,5 @@ select {
     .row {
         width: 90%; /* Change width to percentage for responsiveness */
         max-width: 90%; /* Limit maximum width */
-        flex-direction: column; /* Stack items vertically */
     }
 }
